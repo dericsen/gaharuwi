@@ -875,7 +875,7 @@ export default function App() {
               <h6 className="uppercase tracking-widest text-[10px] font-bold text-brand-dark mb-6">Contact</h6>
               <p className="text-xs font-medium text-brand-dark/60">Email: gaharuwi@gmail.com</p>
               <p className="text-xs font-medium text-brand-dark/60">Nomor WA: 0821-6458-5601</p>
-              <p className="text-xs font-medium text-brand-dark/60 mt-2">Banjarbaru, Kalimantan Selatan, Indonesia</p>
+              <p className="text-xs font-medium text-brand-dark/60 mt-2">Medan, Sumatera Utara, Indonesia</p>
             </div>
           </div>
           <div className="border-t border-brand-dark/5 pt-10 text-center">
