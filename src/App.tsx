@@ -868,7 +868,7 @@ export default function App() {
               <ul className="space-y-4 text-xs font-medium text-brand-dark/60">
                 <li><button onClick={() => setView('about')} className="hover:text-brand-dark">Tentang Kami</button></li>
                 <li><button onClick={() => setView('about')} className="hover:text-brand-dark">Visi, Misi & Tujuan</button></li>
-                <li><a href="https://wa.me/6282164585601" target="_blank" rel="noopener noreferrer" className="hover:text-brand-dark">Hubungi Kami</a></li>
+                <li><a href="https://wa.me/62823119194051" target="_blank" rel="noopener noreferrer" className="hover:text-brand-dark">Hubungi Kami</a></li>
               </ul>
             </div>
             <div>
