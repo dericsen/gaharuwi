@@ -259,7 +259,7 @@ export default function App() {
   // WhatsApp Order helper
   const getWhatsAppLink = (product: Product) => {
     const message = `Halo Gaharuwi, saya tertarik untuk membeli produk berikut:\n\n*${product.name}*\nKategori: ${product.category}\nHarga: ${formatPrice(product.price)}\n\nApakah stoknya masih tersedia? Terima kasih!`;
-    return `https://wa.me/6282164585601?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/6282311919405?text=${encodeURIComponent(message)}`;
   };
 
   return (
@@ -511,7 +511,7 @@ export default function App() {
                     </button>
 
                     <a
-                      href="https://wa.me/6282164585601"
+                      href="https://wa.me/6282311919405"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="bg-brand-gold hover:bg-white text-white hover:text-brand-dark px-8 py-4 rounded-full text-sm uppercase tracking-widest font-semibold transition-all duration-300 shadow-xl flex items-center gap-2 border border-brand-gold hover:border-white"
@@ -868,7 +868,7 @@ export default function App() {
               <ul className="space-y-4 text-xs font-medium text-brand-dark/60">
                 <li><button onClick={() => setView('about')} className="hover:text-brand-dark">Tentang Kami</button></li>
                 <li><button onClick={() => setView('about')} className="hover:text-brand-dark">Visi, Misi & Tujuan</button></li>
-                <li><a href="https://wa.me/62823119194051" target="_blank" rel="noopener noreferrer" className="hover:text-brand-dark">Hubungi Kami</a></li>
+                <li><a href="https://wa.me/6282311919405" target="_blank" rel="noopener noreferrer" className="hover:text-brand-dark">Hubungi Kami</a></li>
               </ul>
             </div>
             <div>
